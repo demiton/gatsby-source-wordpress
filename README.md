@@ -1,3 +1,5 @@
+**Forked version of gatsby-source-wordpress version 3.11.0 , working without plugins.**
+
 <mark>Warning:</mark>
 **The current version of this plugin will soon be deprecated** and replaced with a complete rewrite in the next version (v4). The reason for this is that we've adopted the use of WPGraphQL to support Preview and incremental builds as well as to make the schema generally more stable and consistent.
 
